@@ -5,5 +5,5 @@ botfacts/*
 test/*
 *.log
 logs/*
-systemDB/*
+*DB/*
 uploads/*
